@@ -9,6 +9,8 @@ The workaround is to send the integrated player another form to edit the signs!
 Place sign, enter the appropriate text, and send it.
 Then a form will be sent to you, and you can enter text in the text boxes of each line and submit it to edit the sign.
 
+If you are using Bungee/Velocity, you need to install Floodgate on your backend server and enable "send-floodgate-data" on proxy Floodgate.
+
 # Config
 | KEY                | VALUE                                              |
 |--------------------|----------------------------------------------------|
