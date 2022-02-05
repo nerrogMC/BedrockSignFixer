@@ -18,7 +18,6 @@ public class BlockPlaceEvent implements Listener {
         if (BedrockSignFixer.floodgateApi.isFloodgatePlayer(e.getPlayer().getUniqueId())){
             boolean isShow = false;
 
-            e.getPlayer().sendMessage(BedrockSignFixer.floodgateApi.getPlayer(e.getPlayer().getUniqueId()).getDeviceOs().name());
             //configのNSWとandroidのみ有効オプションの確認
             if (BedrockSignFixer.config.getBoolean("target_NSW_ANDROID")){
                 //確認
