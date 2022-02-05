@@ -1,0 +1,18 @@
+# bedrockSignFixer
+
+# Only target NSW and Android
+target_NSW_ANDROID: true
+
+# Form message
+# Title
+form_title: "Set sign message"
+# label
+form_label: "Switch and Android devices can't edit the signs, so edit them here"
+# line1
+form_line1: "Line1"
+# line2
+form_line2: "Line2"
+# line3
+form_line3: "Line3"
+# line4
+form_line4: "Line4"

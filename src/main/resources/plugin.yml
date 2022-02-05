@@ -1,0 +1,6 @@
+name: BedrockSignFixer
+version: '${project.version}'
+main: net.nerrog.bedrocksignfixer.BedrockSignFixer
+api-version: 1.16
+authors: [ nerrog ]
+depend: [ floodgate ]
